@@ -1,0 +1,16 @@
+body{
+	background-color: #5b5757;
+}
+h1{
+	color: blueviolet;
+	font-size: 30px;
+}
+#para_first{
+	color: rgb(56, 56, 243);
+	font-weight: 900;
+
+}
+#para-second{
+	font-weight: bold;
+	background-color: #8ab324;
+}

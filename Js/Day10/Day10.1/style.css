@@ -1,0 +1,26 @@
+
+
+.image{
+	background-color: red;
+	height:50px;
+	width:50px;
+	border-radius: 20px;
+	border: 2px solid yellow;
+	/* display: none; */
+}
+
+.boxStyle{
+	color : greenyellow;
+	background-color :brown;
+	font-size: larger;
+
+}
+
+.buttonStyle{
+
+	height: 50px;
+	width:50px;
+	color: brown;
+	background-color: bisque;
+
+}

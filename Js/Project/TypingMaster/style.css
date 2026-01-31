@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	/* marginTop: 100px; */
+	align-items: center;
+	flex-direction: column ;
+}
+#container{
+	width: 80%;
+	height: 80%;
+}
+h2{
+	color: gray;
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 50px;
+}
+
+p{
+	color: aquamarine;
+	font-size: 18px;
+	line-height: 25px;
+
+}
+#para span {
+  padding: 2px;
+  font-size: 18px;
+}
+
+#area{
+	padding: 10px;
+margin-top: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+	height:50% ;
+	width: 100%;
+	background-color: aqua;
+}
+
