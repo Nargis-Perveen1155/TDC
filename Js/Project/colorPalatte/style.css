@@ -27,15 +27,16 @@ body{
 	/* gap: 20px; */
 }
 .mainBox {
-	height: 300px;
-	width: 250px;
+	height: 500px;
+	/* hello */
+	width: 750px;
 	border: 1px solid white;
 	
 
 }
 
 .box1{
-	height: 120px;
+	height: 200px;
 	width: 100%;
 	border: 1px solid white;
 	
